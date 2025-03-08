@@ -62,7 +62,7 @@ Example Commands
 Send any video or GIF, and it will be processed into a circular video note.
 
 
-Acknowledgements
+** ACKNOWLEDGEMENTS
 
 Pyrogram for the Telegram API wrapper.
 
